@@ -2,7 +2,7 @@
 WiDS Datathon 2024 Challenge #1 Equity in Healthcare
 
 
-# WiDS Datathon 2024
+# WiDS (Women In Data Science) Datathon 2024
 
 ## Overview
 
