@@ -56,7 +56,7 @@ The datasets include the following types of information:
 
 ## Goal
 
-Your goal is to develop a predictive model that can accurately determine whether the Diagnosis Period for a patient is less than 90 days based on the given characteristics and information.
+Goal is to develop a predictive model that can accurately determine whether the Diagnosis Period for a patient is less than 90 days based on the given characteristics and information.
 
 ## Submission
 
@@ -94,6 +94,7 @@ Submit your predictions for the test dataset. Ensure that your model is well-doc
 
 Models will be evaluated based on their accuracy in predicting whether the Diagnosis Period is less than 90 days. Further details on evaluation metrics and scoring will be provided.
 
+![image](https://github.com/karunakadam2003/WIDS_Challenge1/assets/90612970/d15b04a7-7d16-416a-b721-0ca9df3700d5)
 
 ---
 
