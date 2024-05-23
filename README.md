@@ -92,7 +92,8 @@ Submit your predictions for the test dataset. Ensure that your model is well-doc
 
 ## Evaluation
 
-Models will be evaluated based on their accuracy in predicting whether the Diagnosis Period is less than 90 days. Further details on evaluation metrics and scoring will be provided.
+Models will be evaluated based on their accuracy in predicting whether the Diagnosis Period is less than 90 days. 
+Our rank in the competition.
 
 ![image](https://github.com/karunakadam2003/WIDS_Challenge1/assets/90612970/d15b04a7-7d16-416a-b721-0ca9df3700d5)
 
