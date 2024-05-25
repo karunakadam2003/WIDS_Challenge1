@@ -1,11 +1,9 @@
 # WIDS_Challenge1
 WiDS Datathon 2024 Challenge #1 Equity in Healthcare
 
-
 # WiDS (Women In Data Science) Datathon 2024
 
 ## Overview
-
 The WiDS Datathon 2024 focuses on a prediction task using a dataset of approximately 18,000 records (split into training and test sets). The dataset represents patients and their characteristics, including:
 
 - **Patient Characteristics**: age, race, BMI, zip code.
